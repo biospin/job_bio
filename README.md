@@ -36,6 +36,9 @@ https://drive.google.com/drive/u/1/folders/1nDnapunStkDExO21T_N_AzwxGyPOSKQ-
       - [Foundations of Data Science](https://www.microsoft.com/en-us/research/publication/foundations-of-data-science-2/)
       - [Statistical-Inference](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)
       - [다양한 그래프, 간단한 수학, R로 배우는 머신러닝](http://bit.ly/2WLuuHq )
+  - 생명정보학 기초
+      - [Computing Skills for Biologists](https://computingskillsforbiologists.com/)
+      - [Bioinformatics Algorithms Design and Implementation in Python](https://www.amazon.com/Bioinformatics-Algorithms-Design-Implementation-Python/dp/0128125209)
   
 
 ## 장소
