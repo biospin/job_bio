@@ -1,0 +1,67 @@
+
+###  Anaconda 설치
+wget https://repo.continuum.io/archive/Anaconda3-5.0.1-Linux-x86_64.sh
+
+bash Anaconda3-5.0.1-Linux-x86_64.sh
+
+source .bashrc
+
+conda create --name universe python=3.6 anaconda
+
+source activate universe
+
+# source deactivate
+
+
+### Docker 설치
+
+sudo apt-get remove -y docker docker-engine docker.io containerd runc
+
+sudo apt-get install -y \
+    apt-transport-https \
+    ca-certificates \
+    curl \
+    gnupg-agent \
+    software-properties-common
+    
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+
+sudo add-apt-repository \
+   "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+   $(lsb_release -cs) \
+   stable"
+   
+sudo apt-get install -y docker-ce 
+
+
+sudo adduser $(whoami) docker
+
+newgrp docker
+
+groups
+
+
+sudo service docker start 
+sudo docker run hello-world
+
+
+sudo groupadd docker 
+sudo usermod -aG docker $USER
+sudo reboot 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
