@@ -65,16 +65,15 @@ https://drive.google.com/drive/u/1/folders/1nDnapunStkDExO21T_N_AzwxGyPOSKQ-
 ### Part 1.
 |seq.|    날짜    |     내용                                                                                      
 |----| ---------|----------------------------------------------
-| 1	 |2019.11. 8|( Data Science Specialization)  1강 :  The Data Scientist’s Toolbox 모두
-|  	 |          |(SQL 개발자 자격증)  PART 01 SQL Developer
-|  	 |          |(강화학습 ) 1장. 강화학습 소개
-| 2	 |2019.11.15|( Data Science Specialization)  2강 : R 프로그래밍  1주차
-|  	 |          |(SQL 개발자 자격증)  PART 02 데이터 모델링
-|  	 |          |(Kaggle) 1장 파이썬과 머신러닝 그리고 캐글 
-| 3	 |2019.11.22|( Data Science Specialization)  2강 : R 프로그래밍  2주차
+| 1	 |2019.11. 8|[(SQL 개발자 자격증)  PART 01 SQL Developer](https://github.com/biospin/job_bio/blob/master/part01/week01/SQL%20Developer%20%EC%86%8C%EA%B0%9C.pdf)
+|  	 |          |[(강화학습 ) 1장. 강화학습 소개](https://github.com/biospin/job_bio/blob/master/part01/week01/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%98%88%EC%A0%9C%EC%99%80%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%EC%9E%85%EB%AC%B8_1%EC%9E%A5.pdf)
+| 2	 |2019.11.15|[[( Data Science Specialization)  1강 :  The Data Scientist’s Toolbox](https://github.com/biospin/job_bio/blob/master/part01/week02/The%20Data%20Scientist%E2%80%99s%20Toolbox.pdf)
+|  	 |          |(SQL 개발자 자격증) [ PART 02 데이터 모델링](https://github.com/biospin/job_bio/blob/master/part01/week02/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AA%A8%EB%8D%B8%EB%A7%81.pdf)
+|  	 |          |(Kaggle)[ 1장 파이썬과 머신러닝 그리고 캐글](https://github.com/biospin/job_bio/blob/master/part01/week02/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%ED%83%90%EA%B5%AC%EC%83%9D%ED%99%9C%20Ch1.pdf) 
+| 3	 |2019.11.22|( Data Science Specialization)  2강 : R 프로그래밍  1주차
 |  	 |          |(SQL 개발자 자격증)  PART 03 SQL 기본과 활용
 |  	 |          |(강화학습 ) 2장. OpenAI와 TensorFlow 시작하기
-| 4	 |2019.11.29|( Data Science Specialization)  2강 : R 프로그래밍  3주차
+| 4	 |2019.11.29|( Data Science Specialization)  2강 : R 프로그래밍  2주차
 |  	 |          |(SQL 개발자 자격증)  PART 04 SQLD 실전 모의고사
 |  	 |          |(Kaggle) 2장 산탄데르 제품 추천 경진대회  ( 1/2 )
 
@@ -82,16 +81,16 @@ https://drive.google.com/drive/u/1/folders/1nDnapunStkDExO21T_N_AzwxGyPOSKQ-
 ### Part 2.
 |seq.|    날짜    |     내용                                                                                      
 |----| ---------|----------------------------------------------
-| 1	 |2019.12. 6|( Data Science Specialization)   2강 : R 프로그래밍  4주차
+| 1	 |2019.12. 6|( Data Science Specialization)   2강 : R 프로그래밍  3주차
 |  	 |          |(강화학습 ) 3장. MDP와 다이내믹 프로그래밍
 |  	 |          |(Kaggle) 2장 산탄데르 제품 추천 경진대회  ( 2/2 )
-| 2	 |2019.12.13|( Data Science Specialization) 3강 Getting and Cleaning Data 1주차 
+| 2	 |2019.12.13|( Data Science Specialization)   2강 : R 프로그래밍  4주차 
 |  	 |          |(강화학습 )  4장. 몬테카를로 방법으로 게임하기 
 |  	 |          |(Kaggle) 3장 텐서플로 음성 인식 경진대회  ( 1/2 )
-| 3	 |2019.12.27|( Data Science Specialization)  3강 Getting and Cleaning Data 2주차 
+| 3	 |2019.12.27|( Data Science Specialization)  3강 Getting and Cleaning Data 1주차 
 |  	 |          |(강화학습 ) 5장. 시간차 학습
 |  	 |          |(Kaggle) 3장 텐서플로 음성 인식 경진대회( 2/2 )
-| 4	 |2020. 1. 3|( Data Science Specialization)  3강 Getting and Cleaning Data 3주차 
+| 4	 |2020. 1. 3|( Data Science Specialization)  3강 Getting and Cleaning Data 2주차 
 |  	 |          |(강화학습 ) 6장. 다중 밴딧 문제
 |  	 |          |(Kaggle) 4장 포르토 세구로 안전 운전자 예측 경진대회  ( 1/2 )
 
@@ -99,16 +98,16 @@ https://drive.google.com/drive/u/1/folders/1nDnapunStkDExO21T_N_AzwxGyPOSKQ-
 ### Part 3.
 |seq.|    날짜    |     내용                                                                                      
 |----| ---------|----------------------------------------------
-| 1	 |2020. 1.10|( Data Science Specialization)  3강 Getting and Cleaning Data 4주차 
+| 1	 |2020. 1.10|( Data Science Specialization)  3강 Getting and Cleaning Data 3주차 
 |  	 |          |(강화학습 )  7장. 딥러닝 기초
 |  	 |          |(Kaggle) 4장 포르토 세구로 안전 운전자 예측 경진대회( 2/2 )
-| 2	 |2020. 1.17|( Data Science Specialization) 4강 탐구 데이터 분석 1주차 
+| 2	 |2020. 1.17|( Data Science Specialization)  3강 Getting and Cleaning Data 4주차 
 |  	 |          |(강화학습 ) 8장. Deep Q Network로 Atari 게임하기
 |  	 |          |(Kaggle) 5장 스테이트 팜 산만한 운전자 감지 경진대회 ( 1/2 )
-| 3	 |2020. 1.31|( Data Science Specialization) 4강 탐구 데이터 분석 2주차 
+| 3	 |2020. 1.31|( Data Science Specialization) 4강 탐구 데이터 분석 1주차 
 |  	 |          |(강화학습 ) 9장. DRQN으로 둠 게임 플레이
 |  	 |          |(Kaggle) 5장 스테이트 팜 산만한 운전자 감지 경진대회( 2/2 )
-| 4	 |2020. 2. 7|( Data Science Specialization) 4강 탐구 데이터 분석 3주차 
+| 4	 |2020. 2. 7|( Data Science Specialization) 4강 탐구 데이터 분석 2-3주차 
 |  	 |          |( Data Science Specialization) 4강 탐구 데이터 분석 4주차
 |  	 |          |(강화학습 ) 10장. A3C 네트워크
 
@@ -128,14 +127,5 @@ https://drive.google.com/drive/u/1/folders/1nDnapunStkDExO21T_N_AzwxGyPOSKQ-
 | 4	 |2020. 3. 6|( Data Science Specialization) 6. 통계적 추론  3주차 
 |  	 |          |( Data Science Specialization) 6. 통계적 추론  4주차 
 |  	 |          |( Data Science Specialization) 7. Regression Models  1주차 
-
-
-
-
-
-
-
-
-
 
 
