@@ -38,6 +38,8 @@ https://drive.google.com/drive/u/1/folders/1nDnapunStkDExO21T_N_AzwxGyPOSKQ-
   - 생명정보학 기초
       - [Computing Skills for Biologists](https://computingskillsforbiologists.com/)
       - [Bioinformatics Algorithms Design and Implementation in Python](https://www.amazon.com/Bioinformatics-Algorithms-Design-Implementation-Python/dp/0128125209)
+  - OHDSI : https://ohdsi-korea.github.io/TheBookOfOhdsiKorea/index.html
+  
   
 
 ## 장소
@@ -70,22 +72,23 @@ https://drive.google.com/drive/u/1/folders/1nDnapunStkDExO21T_N_AzwxGyPOSKQ-
 | 2	 |2019.11.15|[[( Data Science Specialization)  1강 :  The Data Scientist’s Toolbox](https://github.com/biospin/job_bio/blob/master/part01/week02/The%20Data%20Scientist%E2%80%99s%20Toolbox.pdf)
 |  	 |          |(SQL 개발자 자격증) [ PART 02 데이터 모델링](https://github.com/biospin/job_bio/blob/master/part01/week02/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AA%A8%EB%8D%B8%EB%A7%81.pdf)
 |  	 |          |(Kaggle)[ 1장 파이썬과 머신러닝 그리고 캐글](https://github.com/biospin/job_bio/blob/master/part01/week02/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%ED%83%90%EA%B5%AC%EC%83%9D%ED%99%9C%20Ch1.pdf) 
-| 3	 |2019.11.22|( Data Science Specialization)  2강 : R 프로그래밍  1주차
+| 3	 |2019.11.22|( Data Science Specialization)  [2강 : R 프로그래밍  1주차](https://github.com/biospin/job_bio/blob/master/part01/week03/R%20and%20RStudio.pdf)
 |  	 |          |(SQL 개발자 자격증)  PART 03 SQL 기본과 활용
 |  	 |          |(강화학습 ) 2장. OpenAI와 TensorFlow 시작하기
-| 4	 |2019.11.29|( Data Science Specialization)  2강 : R 프로그래밍  2주차
+| 4	 |2019.11.29|( Data Science Specialization) [ 2강 : R 프로그래밍  2주차](https://github.com/biospin/job_bio/blob/master/part01/week04/Version%20control%20and%20Github.pdf)
 |  	 |          |(SQL 개발자 자격증)  PART 04 SQLD 실전 모의고사
-|  	 |          |(Kaggle) 2장 산탄데르 제품 추천 경진대회  ( 1/2 )
+|  	 |          |(Kaggle)[ 2장 산탄데르 제품 추천 경진대회  ( 1/2 )](https://github.com/biospin/job_bio/blob/master/part01/week04/Ch2.ipynb)
 
 
 ### Part 2.
 |seq.|    날짜    |     내용                                                                                      
 |----| ---------|----------------------------------------------
-| 1	 |2019.12. 6|( Data Science Specialization)   2강 : R 프로그래밍  3주차
-|  	 |          |(강화학습 ) 3장. MDP와 다이내믹 프로그래밍
-|  	 |          |(Kaggle) 2장 산탄데르 제품 추천 경진대회  ( 2/2 )
+| 1	 |2019.12. 6|( Data Science Specialization)  [ 2강 : R 프로그래밍  3주차](https://github.com/biospin/job_bio/blob/master/part02/week01/R_Markdown.pdf)
+|  	 |          |(강화학습 ) [3장. MDP와 다이내믹 프로그래밍](https://github.com/biospin/job_bio/blob/master/part02/week01/MDP.ipynb)
+|  	 |          |(Kaggle) [2장 산탄데르 제품 추천 경진대회  ( 2/2 )](https://github.com/biospin/job_bio/blob/master/part02/week01/Ch2.ipynb)
 | 2	 |2019.12.13|( Data Science Specialization)   2강 : R 프로그래밍  4주차 
-|  	 |          |(강화학습 )  4장. 몬테카를로 방법으로 게임하기 
+|  	 |          |(강화학습 ) [ 4장. 몬테카를로 방법으로 게임하기 -  몬테카를로 방법으로 원주율 근사값 구하기 ](https://github.com/biospin/job_bio/blob/master/part02/week02/4.2%20Estimating%20Value%20of%20Pi%20using%20Monte%20Carlo.ipynb)
+|  	 |          |(강화학습 ) [ 4장. 몬테카를로 방법으로 게임하기 -  몬테카를로 방법으로 블랙잭 게임 ](https://github.com/biospin/job_bio/blob/master/part02/week02/4.6%20BlackJack%20with%20First%20visit%20MC.ipynb)
 |  	 |          |(Kaggle) 3장 텐서플로 음성 인식 경진대회  ( 1/2 )
 | 3	 |2019.12.27|( Data Science Specialization)  3강 Getting and Cleaning Data 1주차 
 |  	 |          |(강화학습 ) 5장. 시간차 학습
